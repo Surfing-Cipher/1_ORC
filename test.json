@@ -1,0 +1,29 @@
+[
+  {
+    "serial number": "abc",
+    "file name": "abc",
+    "file case number": "abc",
+    "county name": "abc",
+    "first name": "abc",
+    "middle name": "abc",
+    "last name": "abc",
+    "aka last name": "abc",
+    "date of birth": "yyyy-mm-dd",
+    "gender": "abc",
+    "race": "abc",
+    "ssn": "abc",
+    "driving license": "abc",
+    "state of drivers license": "abc",
+    "TRN": "abc",
+    "Date Of arrest": "yyyy-mm-dd",
+    "date of offense": "yyyy-mm-dd",
+    "arresting agency": "abc",
+    "offense": "abc",
+    "offense cause number": "abc",
+    "offense court": "abc",
+    "filed date": "yyyy-mm-dd",
+    "signed date": "yyyy-mm-dd",
+    "attorney at law": "abc",
+    "attorney’s phone number": "abc"
+  }
+]
