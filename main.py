@@ -31,5 +31,5 @@ def save_pdf_pages_as_jpeg(pdf_filename):
     print(f"OCR results saved to: {text_filename}")
 
 
-pdf_filename = "NOLAN.pdf"
+pdf_filename = "DENTON.pdf"
 save_pdf_pages_as_jpeg(pdf_filename)
